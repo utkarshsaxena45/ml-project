@@ -1,1 +1,3 @@
-# ml-project
+streamlit 
+opencv-python-headless 
+numpy
